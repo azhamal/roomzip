@@ -1,0 +1,157 @@
+@media(max-width: 576px){
+    .menu, .shop{
+        display: none !important;
+    }
+    .burger{
+        display: block;
+    }
+    main img{
+        width: 100%;
+        height: auto;
+    }
+    main{
+        height: auto;
+    }
+    .conteiner{
+        width: 90%;
+    }
+    .design div{
+        height: auto;
+        margin-bottom: 5vh;
+    }
+    .design p{
+    font-size: 10px;
+    line-height: 15px;
+    }
+    .design h1{
+        width: 40%;
+        font-size: 20px;
+        line-height: 25px;
+    }
+    .design{
+        padding-top: 3vh;
+        padding-bottom: 0vh;
+    }
+    .room{
+        padding-bottom: 2%;
+        width: 100%;
+    }
+    .apartament .conteiner{
+        justify-content: center;
+        flex-direction: column;
+    }
+    .brends h1{
+        font-size: 32px;
+        line-height: 36px;
+    }
+    .brends .conteiner{
+        height: auto;
+        margin-bottom: 5vh;
+    }
+    .brends .conteiner div{
+        display: flex;
+        flex-wrap: wrap;
+    }
+    .brends .conteiner div img{
+        width: 27%;
+    }
+    .slider img{
+        height: auto !important;
+    }
+    .slider{
+        height: auto !important;
+    }
+    .time h1{
+        font-size: 18px;
+        line-height: 20px;
+        margin-left: 50px;
+    }
+    .time .conteiner{
+        flex-direction: column;
+    }
+    .time .conteiner div{
+        width: 100%;
+        text-align: center;
+        margin-top: 5vh;
+    }
+    .timep{
+        font-size: 15px;
+        margin-left: 50px;
+    }
+    .time{
+        height: auto;
+        margin-bottom: 10vh;
+    }
+    .otzyv .bgr{
+        height: auto;
+        background-size: cover;
+        background-position-x: center;
+    }
+.otzyv .otz {
+        width: 100%;
+        left: 0%;
+}
+.text .conteiner {
+        height: auto;
+        width: 90%;
+        
+}   
+.text p{
+        width:90% ;
+        font-size: 20px;
+        margin-left: 50px;
+        
+}
+.text h1{
+        width:90% ;
+        font-size: 20px;
+        margin-left: 30px;
+        margin-top: 25px;
+}
+.wrap {
+        height: auto;
+        width: 110%;
+       
+     
+} 
+.flex{
+        display: flex;
+        flex-direction:column;
+        
+}
+   
+.flex__img{
+       
+        margin-left: 15px;
+       height: 50vh;
+       
+}
+.flex__item h2{
+        width: 130%;
+        height: 100%;
+        font-size: 22px;
+       
+}
+.flex__item p{
+        display: flex;
+        width: 170%;
+        height: 150%;
+}
+   
+body>img{
+        height: auto;
+}
+.day100 .conteiner {
+        width: 90%;
+        flex-direction: column;
+}
+footer{
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        height: auto;
+}
+
+
+}
+
